@@ -4553,6 +4553,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18505141493",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 11,
+      "name": "3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18533782604",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8929,11 +8938,20 @@
           "distance": 3059.5,
           "elevation_gain": 27.4,
           "moving_time": 2164.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18533782604"
+          ],
+          "count": 1,
+          "distance": 3067.8,
+          "elevation_gain": 13.4,
+          "moving_time": 1938.0
         }
       }
     }
   },
-  "generated_at": "2026-05-16T18:06:21.990048+00:00",
+  "generated_at": "2026-05-17T18:12:56.006591+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52717164",
   "repo": "kotikov-creator/git-sweaty",
