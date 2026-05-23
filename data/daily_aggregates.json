@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:51:34.246419+00:00",
+  "generated_at": "2026-05-23T18:12:54.877761+00:00",
   "years": {
     "2020": {
       "InlineSkate": {
@@ -4354,6 +4354,15 @@
           "distance": 25015.8,
           "elevation_gain": 204.0,
           "moving_time": 4446.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18622143929"
+          ],
+          "count": 1,
+          "distance": 52294.3,
+          "elevation_gain": 220.0,
+          "moving_time": 8366.0
         }
       },
       "Run": {

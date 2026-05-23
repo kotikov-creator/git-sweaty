@@ -6589,5 +6589,18 @@
     "start_date_local": "2026-05-16T11:22:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 52294.3,
+    "elevation_gain": 220.0,
+    "id": "18622143929",
+    "moving_time": 8366.0,
+    "name": "\u0415\u0441\u043b\u0438 \u043a\u0430\u0442\u0430\u0442\u044c \u0432 \u0444\u043e\u0440\u043c\u0435 Veter \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0438\u0440\u043e\u0441\u0442 \u043a \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u044e \u0438\u043b\u0438 \u0441\u0434\u0443\u0435\u0442 \u043d\u0430\u0445\u0443\u0439?",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T12:21:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
