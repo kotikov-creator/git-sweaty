@@ -6648,10 +6648,23 @@
     "elevation_gain": 4.4,
     "id": "18758453763",
     "moving_time": 73.0,
-    "name": "5 \u041a\u0410\u041a\u041e\u0419 \u041a\u0415\u041a \u0417\u0410\u041f\u0418\u0421\u0410\u041b\u0421\u042f (\u043f\u0440\u0430\u0432\u0434\u0430 \u0431\u0435\u0433\u0430\u043b)",
+    "name": "5 (\u043f\u0440\u0430\u0432\u0434\u0430 \u0431\u0435\u0433\u0430\u043b)",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-02T19:18:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 3529.1,
+    "elevation_gain": 10.3,
+    "id": "18787148057",
+    "moving_time": 1995.0,
+    "name": "6",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T18:56:52Z",
     "type": "Run",
     "year": 2026
   }
