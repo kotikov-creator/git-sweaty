@@ -6667,5 +6667,18 @@
     "start_date_local": "2026-06-04T18:56:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 51038.0,
+    "elevation_gain": 502.0,
+    "id": "18809410648",
+    "moving_time": 9590.0,
+    "name": "22cc + velowcc",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T11:29:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
