@@ -6680,5 +6680,31 @@
     "start_date_local": "2026-06-06T11:29:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 5229.2,
+    "elevation_gain": 58.0,
+    "id": "18825238029",
+    "moving_time": 813.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T08:44:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 100434.0,
+    "elevation_gain": 394.0,
+    "id": "18825247056",
+    "moving_time": 12973.0,
+    "name": "Long cogs #1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T09:36:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
