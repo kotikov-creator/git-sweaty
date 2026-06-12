@@ -6706,5 +6706,70 @@
     "start_date_local": "2026-06-07T09:36:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 5541.8,
+    "elevation_gain": 58.0,
+    "id": "18870094992",
+    "moving_time": 896.0,
+    "name": "\u041c\u044d\u0441\u044d\u0434\u0436",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T17:56:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 1674.4,
+    "elevation_gain": 16.0,
+    "id": "18870094984",
+    "moving_time": 313.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T17:56:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 36850.3,
+    "elevation_gain": 166.0,
+    "id": "18870099913",
+    "moving_time": 5710.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T19:03:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 2525.2,
+    "elevation_gain": 2.0,
+    "id": "18889759152",
+    "moving_time": 390.0,
+    "name": "\u0414\u043d\u0435\u0432\u043d\u043e\u0439 \u0432\u0435\u043b\u043e\u0437\u0430\u0435\u0437\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T13:17:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 14136.5,
+    "elevation_gain": 55.0,
+    "id": "18889759306",
+    "moving_time": 1909.0,
+    "name": "\u0414\u043d\u0435\u0432\u043d\u043e\u0439 \u0432\u0435\u043b\u043e\u0437\u0430\u0435\u0437\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T13:24:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
