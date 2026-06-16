@@ -4724,6 +4724,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18920718131",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 13,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18946968959",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 19,
+      "name": "7 Salut coffee begit",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18946968923",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9231,11 +9249,31 @@
           "distance": 3529.1,
           "elevation_gain": 10.3,
           "moving_time": 1995.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18946968923"
+          ],
+          "count": 1,
+          "distance": 5681.4,
+          "elevation_gain": 25.5,
+          "moving_time": 2244.0
+        }
+      },
+      "Workout": {
+        "2026-06-15": {
+          "activity_ids": [
+            "18946968959"
+          ],
+          "count": 1,
+          "distance": 1837.9,
+          "elevation_gain": 5.5,
+          "moving_time": 2432.0
         }
       }
     }
   },
-  "generated_at": "2026-06-15T19:01:06.547465+00:00",
+  "generated_at": "2026-06-16T18:53:04.173461+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52717164",
   "repo": "kotikov-creator/git-sweaty",
@@ -9253,12 +9291,17 @@
     "Run": {
       "accent": "#01cdfe",
       "label": "Run"
+    },
+    "Workout": {
+      "accent": "#ff8a5b",
+      "label": "Other Workout"
     }
   },
   "types": [
     "InlineSkate",
     "Ride",
-    "Run"
+    "Run",
+    "Workout"
   ],
   "units": {
     "distance": "km",

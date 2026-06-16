@@ -6823,5 +6823,31 @@
     "start_date_local": "2026-06-14T16:37:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 1837.9,
+    "elevation_gain": 5.5,
+    "id": "18946968959",
+    "moving_time": 2432.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-15T13:28:28Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 5681.4,
+    "elevation_gain": 25.5,
+    "id": "18946968923",
+    "moving_time": 2244.0,
+    "name": "7 Salut coffee begit",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T19:15:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
