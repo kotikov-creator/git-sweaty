@@ -6849,5 +6849,31 @@
     "start_date_local": "2026-06-16T19:15:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 4792.6,
+    "elevation_gain": 20.6,
+    "id": "18975791049",
+    "moving_time": 2486.0,
+    "name": "8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T19:35:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 6205.3,
+    "elevation_gain": 26.1,
+    "id": "18984235763",
+    "moving_time": 5064.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-19T13:04:30Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
