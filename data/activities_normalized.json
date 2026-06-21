@@ -6875,5 +6875,18 @@
     "start_date_local": "2026-06-19T13:04:30Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 10891.2,
+    "elevation_gain": 141.2,
+    "id": "19012548768",
+    "moving_time": 6162.0,
+    "name": "9 \u2014 Ruts 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T10:15:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

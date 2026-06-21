@@ -4760,6 +4760,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18984235763",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 10,
+      "name": "9 \u2014 Ruts 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19012548768",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9285,6 +9294,15 @@
           "distance": 4792.6,
           "elevation_gain": 20.6,
           "moving_time": 2486.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012548768"
+          ],
+          "count": 1,
+          "distance": 10891.2,
+          "elevation_gain": 141.2,
+          "moving_time": 6162.0
         }
       },
       "Workout": {
@@ -9309,7 +9327,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:13:11.663075+00:00",
+  "generated_at": "2026-06-21T16:26:25.993831+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52717164",
   "repo": "kotikov-creator/git-sweaty",
