@@ -6914,5 +6914,18 @@
     "start_date_local": "2026-06-23T16:58:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 27818.3,
+    "elevation_gain": 203.0,
+    "id": "19098182366",
+    "moving_time": 5200.0,
+    "name": "22cc / surf coffee / 3",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T12:36:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
